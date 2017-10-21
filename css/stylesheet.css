@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+#header{
+    background-color: lime;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    
+}
+
+#section1{
+    
+    color: white;
+    margin: auto;
+    text-align: center;
+    width:80%;
+}
+#the-noise{
+    text-align: center;
+    color: white;
+    margin: auto;
+    width: 80%;
+    
+}
+
+h2{
+    text-align: center;
+    color: lime;
+    font-family: 'Pacifico', cursive;
+   
+}
+
+
+
+#townhouse{
+    
+ 
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    color: white;
+    
+}
+
+#footer{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    color: white;
+    
+}
+
+#dynamic{
+    text-align: center;
+    width:90%;
+    margin:auto;
+    color: white;
+}
+
+body{
+    background-image: url("../images/grave.jpg");
+    
+    
+}
+
+
+#nav a:link{
+    color: lime;
+}
+
+#nav a:visited{
+    color: yellow;
+}
+
+#nav a:hover{
+   color: #ff000c; 
+}
+
+#nav a:actived{
+  color: white;  
+}
+
+ p{
+    color: black;
+    background-color: lightgrey;
+    border: 5px dashed lime;
+    padding: 10px 10px 5px 10px;
+    
+    
+}
